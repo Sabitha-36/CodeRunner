@@ -1,0 +1,2 @@
+D:\Sem5\WT\Project\CodeRunner_Game\CodeRunner_Game\obj\Debug\CodeRunner_Game.Resources.resources
+D:\Sem5\WT\Project\CodeRunner_Game\CodeRunner_Game\obj\Debug\CodeRunner_Game.vbproj.GenerateResource.Cache
